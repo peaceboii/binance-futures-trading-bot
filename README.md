@@ -103,6 +103,6 @@ Optional: GUI using Streamlit
 
 📬 Contact
 Built as part of a hiring assignment.
-For questions or demo access, contact [YourName].
+For questions or demo access, contact [kumaravelu].
 
 ```bash
